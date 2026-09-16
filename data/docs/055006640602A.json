@@ -1,0 +1,18 @@
+{
+ "ref": "055006640602A",
+ "refDisplay": "0550 06 640602A",
+ "title": "COMPRESSEUR DETAIL",
+ "nature": "",
+ "applicability": "REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0347"
+  }
+ ]
+}

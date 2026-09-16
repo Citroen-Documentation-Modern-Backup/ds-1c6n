@@ -1,0 +1,60 @@
+{
+ "ref": "B3BB011HP0",
+ "refDisplay": "B3BB011HP0",
+ "title": "Valeurs de contrôle et de réglage : géométrie des trains roulants (WMI 935, 936, 8AD, 8BC)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ2",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F7J",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2N",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0337"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0337"
+  }
+ ]
+}

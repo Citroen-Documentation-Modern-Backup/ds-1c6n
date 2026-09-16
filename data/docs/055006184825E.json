@@ -1,0 +1,18 @@
+{
+ "ref": "055006184825E",
+ "refDisplay": "0550 06 184825E",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": " DEPUIS DAM 0882078",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0011"
+  }
+ ]
+}

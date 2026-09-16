@@ -1,0 +1,18 @@
+{
+ "ref": "055006236052A",
+ "refDisplay": "0550 06 236052A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 11192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0009"
+  }
+ ]
+}

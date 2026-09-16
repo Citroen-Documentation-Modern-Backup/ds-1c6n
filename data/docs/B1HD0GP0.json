@@ -1,0 +1,20 @@
+{
+ "ref": "B1HD0GP0",
+ "refDisplay": "B1HD0GP0",
+ "title": "Contrôle  : circuit d’alimentation d’air",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

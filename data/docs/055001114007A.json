@@ -1,0 +1,18 @@
+{
+ "ref": "055001114007A",
+ "refDisplay": "0550 01 114007A",
+ "title": "CARTER CYLINDRES",
+ "nature": "",
+ "applicability": "TOUT ALCOOL OU ESSENCE RON 95 (FLEX FUEL) DEPUIS DAM 1058978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0004"
+  }
+ ]
+}

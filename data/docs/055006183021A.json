@@ -1,0 +1,18 @@
+{
+ "ref": "055006183021A",
+ "refDisplay": "0550 06 183021A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "AVEC SYSTEME ESP",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0011"
+  }
+ ]
+}

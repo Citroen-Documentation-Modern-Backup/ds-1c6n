@@ -1,0 +1,18 @@
+{
+ "ref": "055003440013M",
+ "refDisplay": "0550 03 440013M",
+ "title": "POMPE ASSISTANCE DIRECTION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE DEPUIS DAM 1066178 JUSQU’A DAM 1081078",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0339"
+  }
+ ]
+}

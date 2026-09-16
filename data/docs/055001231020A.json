@@ -1,0 +1,18 @@
+{
+ "ref": "055001231020A",
+ "refDisplay": "0550 01 231020A",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": " JUSQU’A MOTEUR 0575378",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0009"
+  }
+ ]
+}

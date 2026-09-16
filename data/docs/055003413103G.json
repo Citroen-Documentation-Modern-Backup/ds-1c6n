@@ -1,0 +1,18 @@
+{
+ "ref": "055003413103G",
+ "refDisplay": "0550 03 413103G",
+ "title": "PIVOTS MOYEUX ROULEMENTS TRAIN AV",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE DEPUIS DAM 09064FV OU  DEPUIS DAM 11193CJ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0026"
+  }
+ ]
+}

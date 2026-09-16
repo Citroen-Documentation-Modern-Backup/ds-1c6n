@@ -1,0 +1,18 @@
+{
+ "ref": "055006173380A",
+ "refDisplay": "0550 06 173380A",
+ "title": "FILTRE DECANTEUR POMPE AMORCAGE",
+ "nature": "",
+ "applicability": "FILTRE GAS OIL BOSCH ET SYSTEME INJECTION BOSCH JUSQU’A OPR 08973",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

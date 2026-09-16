@@ -1,0 +1,18 @@
+{
+ "ref": "055001121805L",
+ "refDisplay": "0550 01 121805L",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": "TOUT ALCOOL OU ESSENCE RON 95 (FLEX FUEL) DEPUIS DAM 1058978",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0005"
+  }
+ ]
+}

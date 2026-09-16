@@ -1,0 +1,20 @@
+{
+ "ref": "B1HB4ZP0",
+ "refDisplay": "B1HB4ZP0",
+ "title": "Caractéristiques : système d’injection multipoints MAGNETI MARELLI 48 P2",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0010"
+  }
+ ]
+}

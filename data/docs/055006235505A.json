@@ -1,0 +1,18 @@
+{
+ "ref": "055006235505A",
+ "refDisplay": "0550 06 235505A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": " DEPUIS DAM 1033278",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0009"
+  }
+ ]
+}

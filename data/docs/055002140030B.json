@@ -1,0 +1,18 @@
+{
+ "ref": "055002140030B",
+ "refDisplay": "0550 02 140030B",
+ "title": "POMPE INJECTION SUPPORT PIGNON",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10465",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ2",
+   "fctId": "FCT0010"
+  }
+ ]
+}

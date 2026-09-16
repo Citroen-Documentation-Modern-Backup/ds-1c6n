@@ -1,0 +1,18 @@
+{
+ "ref": "055001223005B",
+ "refDisplay": "0550 01 223005B",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 10339",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0008"
+  }
+ ]
+}

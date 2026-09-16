@@ -1,0 +1,18 @@
+{
+ "ref": "055004371110A",
+ "refDisplay": "0550 04 371110A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM BE4R JUSQU’A DAM 09491FV OU  JUSQU’A DAM 1031278 OU  JUSQU’A DAM 10312UW",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001112020A",
+ "refDisplay": "0550 01 112020A",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0006"
+  }
+ ]
+}

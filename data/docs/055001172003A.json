@@ -1,0 +1,18 @@
+{
+ "ref": "055001172003A",
+ "refDisplay": "0550 01 172003A",
+ "title": "TURBO RACCORD HUILE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0014"
+  }
+ ]
+}

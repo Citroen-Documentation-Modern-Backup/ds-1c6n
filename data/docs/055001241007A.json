@@ -1,0 +1,18 @@
+{
+ "ref": "055001241007A",
+ "refDisplay": "0550 01 241007A",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR 1 VITESSE 20WAERO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0009"
+  }
+ ]
+}

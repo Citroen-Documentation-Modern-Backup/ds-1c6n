@@ -1,0 +1,20 @@
+{
+ "ref": "B1BBC1P0",
+ "refDisplay": "B1BBC1P0",
+ "title": "Caractéristiques : suspension groupe motopropulseur",
+ "nature": "Caractéristiques - identifications",
+ "applicability": " DEPUIS OPR 9492",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0049"
+  }
+ ]
+}

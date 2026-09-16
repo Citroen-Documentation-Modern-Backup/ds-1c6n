@@ -1,0 +1,18 @@
+{
+ "ref": "055006175617A",
+ "refDisplay": "0550 06 175617A",
+ "title": "BOITIER SONDE TEMPERATURE ECHAPP",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE EURO 4 JUSQU’A OPR 10559",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0012"
+  }
+ ]
+}

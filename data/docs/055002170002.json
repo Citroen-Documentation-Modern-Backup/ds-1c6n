@@ -1,0 +1,18 @@
+{
+ "ref": "055002170002",
+ "refDisplay": "0550 02 170002",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F7J",
+   "fctId": "FCT0010"
+  }
+ ]
+}

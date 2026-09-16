@@ -1,0 +1,18 @@
+{
+ "ref": "055001231030N",
+ "refDisplay": "0550 01 231030N",
+ "title": "POMPE A EAU JOINT COLLECTEUR EAU",
+ "nature": "",
+ "applicability": " DEPUIS OPR 11167",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001223002",
+ "refDisplay": "0550 01 223002",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 JUSQU’A OPR 10108",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F7J",
+   "fctId": "FCT0008"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "055006643615A",
+ "refDisplay": "0550 06 643615A",
+ "title": "RECHAUFFEUR EAU",
+ "nature": "",
+ "applicability": "CHAUFFAGE ADDITIONNEL AUTOMATIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0348"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0349"
+  }
+ ]
+}

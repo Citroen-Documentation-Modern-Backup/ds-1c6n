@@ -1,0 +1,18 @@
+{
+ "ref": "055001241021A",
+ "refDisplay": "0550 01 241021A",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR 3 VITESSES 400W SANS VOLETS DYNA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0009"
+  }
+ ]
+}

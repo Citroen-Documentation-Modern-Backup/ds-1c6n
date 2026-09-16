@@ -1,0 +1,18 @@
+{
+ "ref": "055003440510",
+ "refDisplay": "0550 03 440510",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE ET CONDUITE A GAUCHE JUSQU’A DAM 0904578 OU  JUSQU’A DAM 09057FV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0339"
+  }
+ ]
+}

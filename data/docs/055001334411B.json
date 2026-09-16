@@ -1,0 +1,18 @@
+{
+ "ref": "055001334411B",
+ "refDisplay": "0550 01 334411B",
+ "title": "LIGNE SECONDAIRE BVM",
+ "nature": "",
+ "applicability": "BVM BE4R ET BVM BE4 L ET CP 15 X 74 DEPUIS OPR 09786 JUSQU’A OPR 10585",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0017"
+  }
+ ]
+}

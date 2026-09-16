@@ -1,0 +1,18 @@
+{
+ "ref": "055001121020L",
+ "refDisplay": "0550 01 121020L",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "BVA JUSQU’A MOTEUR 0961749",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0005"
+  }
+ ]
+}

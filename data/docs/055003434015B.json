@@ -1,0 +1,18 @@
+{
+ "ref": "055003434015B",
+ "refDisplay": "0550 03 434015B",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE DEPUIS OPR 09877",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0028"
+  }
+ ]
+}

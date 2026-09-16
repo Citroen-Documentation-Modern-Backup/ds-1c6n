@@ -1,0 +1,18 @@
+{
+ "ref": "055006173070K",
+ "refDisplay": "0550 06 173070K",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "FILTRE GAS OIL MAHLE ET SYSTEME INJECTION BOSCH DEPUIS OPR 08974",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

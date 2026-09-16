@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG01BQP0",
+ "refDisplay": "B1HG01BQP0",
+ "title": "Dépose - repose :  turbocompresseur (MHI)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0014"
+  }
+ ]
+}

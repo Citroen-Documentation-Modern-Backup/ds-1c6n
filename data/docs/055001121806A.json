@@ -1,0 +1,18 @@
+{
+ "ref": "055001121806A",
+ "refDisplay": "0550 01 121806A",
+ "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
+ "nature": "",
+ "applicability": " DEPUIS DAM 10556FV OU  DEPUIS DAM 11249CJ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0005"
+  }
+ ]
+}

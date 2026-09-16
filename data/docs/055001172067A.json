@@ -1,0 +1,18 @@
+{
+ "ref": "055001172067A",
+ "refDisplay": "0550 01 172067A",
+ "title": "SURALIMENTATION RACCORD D’AIR",
+ "nature": "",
+ "applicability": "DEPOL CEE 2000 (MOTEUR) JUSQU’A OPR 09883",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0014"
+  }
+ ]
+}

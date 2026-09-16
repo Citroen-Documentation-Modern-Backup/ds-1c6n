@@ -1,0 +1,18 @@
+{
+ "ref": "055001241081E",
+ "refDisplay": "0550 01 241081E",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR 3 VITESSES 460W ET REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0009"
+  }
+ ]
+}

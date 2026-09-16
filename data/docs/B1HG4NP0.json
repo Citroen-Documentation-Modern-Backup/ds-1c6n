@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG4NP0",
+ "refDisplay": "B1HG4NP0",
+ "title": "Dépose - repose : filtre à carburant ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001330013A",
+ "refDisplay": "0550 01 330013A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4 L ET CP 19 X 72",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0017"
+  }
+ ]
+}

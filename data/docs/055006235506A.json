@@ -1,0 +1,18 @@
+{
+ "ref": "055006235506A",
+ "refDisplay": "0550 06 235506A",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "RADIATEUR 27MBA - 21 DM2 - PAS 1,1 DEPUIS DAM 10553FV OU  DEPUIS DAM 11249CJ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "ldp": "1C6N",
+ "label": "XSARA PICASSO",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DAF",
+     "lib": "BERLINE FAMILIALE"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FQ2",
+     "lib": "1.6 HDi 110"
+    },
+    {
+     "val": "B0F9W",
+     "lib": "1.6 HDi 110 FAP (DV6TED4)"
+    },
+    {
+     "val": "B0F3N",
+     "lib": "1.6 HDi 92 (DV6ATED4)"
+    },
+    {
+     "val": "B0F7J",
+     "lib": "1.6 i 100"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0F2N",
+     "lib": "1.6 i 90"
+    },
+    {
+     "val": "B0F6U",
+     "lib": "1.8 i 16v 117"
+    },
+    {
+     "val": "B0F2X",
+     "lib": "2.0 HDi 90"
+    },
+    {
+     "val": "B0F6V",
+     "lib": "2.0 i 16v 138"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DAF&B0F=B0FQ2",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FQ2"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 110"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F9W",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F9W"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 110 FAP (DV6TED4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F3N"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F7J",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F7J"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 i 100"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F6S"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F2N",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F2N"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 i 90"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F6U",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F6U"
+   },
+   "label": "BERLINE FAMILIALE · 1.8 i 16v 117"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F2X"
+   },
+   "label": "BERLINE FAMILIALE · 2.0 HDi 90"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F6V",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F6V"
+   },
+   "label": "BERLINE FAMILIALE · 2.0 i 16v 138"
+  }
+ ]
+}

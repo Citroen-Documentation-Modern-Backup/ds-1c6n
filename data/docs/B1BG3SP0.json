@@ -1,0 +1,25 @@
+{
+ "ref": "B1BG3SP0",
+ "refDisplay": "B1BG3SP0",
+ "title": "Dépose - repose : ensemble moteur-boîte de vitesses",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2N",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2N",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001241051M",
+ "refDisplay": "0550 01 241051M",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR ELECTRONIQUE CDE INTEGREE 140W DEPUIS OPR 10249",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0009"
+  }
+ ]
+}

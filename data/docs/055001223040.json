@@ -1,0 +1,18 @@
+{
+ "ref": "055001223040",
+ "refDisplay": "0550 01 223040",
+ "title": "REMPLISSAGE HUILE DECANTEUR CANALISATION",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L3",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2N",
+   "fctId": "FCT0008"
+  }
+ ]
+}

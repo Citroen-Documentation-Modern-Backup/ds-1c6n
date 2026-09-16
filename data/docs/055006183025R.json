@@ -1,0 +1,18 @@
+{
+ "ref": "055006183025R",
+ "refDisplay": "0550 06 183025R",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "BVM5 ET SAUF ANIMATION DE GAMME DEPUIS DAM 10031UW",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0011"
+  }
+ ]
+}

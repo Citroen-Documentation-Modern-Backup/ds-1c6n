@@ -1,0 +1,18 @@
+{
+ "ref": "055001241005",
+ "refDisplay": "0550 01 241005",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L3 ET REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2N",
+   "fctId": "FCT0009"
+  }
+ ]
+}

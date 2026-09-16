@@ -1,0 +1,18 @@
+{
+ "ref": "055006236082B",
+ "refDisplay": "0550 06 236082B",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": " DEPUIS DAM 1088778",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0009"
+  }
+ ]
+}

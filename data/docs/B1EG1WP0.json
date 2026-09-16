@@ -1,0 +1,20 @@
+{
+ "ref": "B1EG1WP0",
+ "refDisplay": "B1EG1WP0",
+ "title": "Dépose - repose : courroie de distribution ",
+ "nature": "Dépose-pose",
+ "applicability": " DEPUIS OPR 8821 JUSQU’A OPR 9410",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0007"
+  }
+ ]
+}

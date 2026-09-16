@@ -1,0 +1,18 @@
+{
+ "ref": "055006642607A",
+ "refDisplay": "0550 06 642607A",
+ "title": "AEROTHERME - RACCORDS EAU",
+ "nature": "",
+ "applicability": " DEPUIS DAM 0882078",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0347"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001123020A",
+ "refDisplay": "0550 01 123020A",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0007"
+  }
+ ]
+}

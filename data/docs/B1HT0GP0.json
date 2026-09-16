@@ -1,0 +1,20 @@
+{
+ "ref": "B1HT0GP0",
+ "refDisplay": "B1HT0GP0",
+ "title": "Évolution  : porte-injecteurs diesel ",
+ "nature": "Évolutions",
+ "applicability": " DEPUIS OPR 8757",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

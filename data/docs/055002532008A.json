@@ -1,0 +1,18 @@
+{
+ "ref": "055002532008A",
+ "refDisplay": "0550 02 532008A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": " DEPUIS DAM 1049378",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0303"
+  }
+ ]
+}

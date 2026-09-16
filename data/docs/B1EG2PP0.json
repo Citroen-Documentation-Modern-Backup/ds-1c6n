@@ -1,0 +1,20 @@
+{
+ "ref": "B1EG2PP0",
+ "refDisplay": "B1EG2PP0",
+ "title": "Dépose - repose : courroie de distribution ",
+ "nature": "Dépose-pose",
+ "applicability": "(BR) BRESIL DEPUIS OPR 9569 OU (RA) ARGENTINE DEPUIS OPR 9569",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0007"
+  }
+ ]
+}

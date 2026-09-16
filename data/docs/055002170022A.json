@@ -1,0 +1,18 @@
+{
+ "ref": "055002170022A",
+ "refDisplay": "0550 02 170022A",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "FILTRATION POUSSIERE ADMISSION AIR STD",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0010"
+  }
+ ]
+}

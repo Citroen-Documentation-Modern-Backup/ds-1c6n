@@ -1,0 +1,18 @@
+{
+ "ref": "055006640826A",
+ "refDisplay": "0550 06 640826A",
+ "title": "TUYAU FLUIDE REFRI - FIXATIONS",
+ "nature": "",
+ "applicability": "REFRIGERATION DEPUIS DAM 0882078",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6V",
+   "fctId": "FCT0347"
+  }
+ ]
+}

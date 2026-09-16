@@ -1,0 +1,18 @@
+{
+ "ref": "055001241080A",
+ "refDisplay": "0550 01 241080A",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION ET 1 VENTILATEUR 2 VITESSES 400W OU SANS REFRIGERATION ET 1 VENTILATEUR 2 VITESSES 140W AERO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001330002A",
+ "refDisplay": "0550 01 330002A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE4 P ET CP 15 X 76 ET CT 22 X 18 ET (RC) CHINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F7J",
+   "fctId": "FCT0017"
+  }
+ ]
+}

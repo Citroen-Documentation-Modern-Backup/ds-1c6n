@@ -1,0 +1,18 @@
+{
+ "ref": "055004456305A",
+ "refDisplay": "0550 04 456305A",
+ "title": "POMPE A VIDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0044"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1EG1QP0",
+ "refDisplay": "B1EG1QP0",
+ "title": "Dépose - repose : courroie de distribution ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0007"
+  }
+ ]
+}

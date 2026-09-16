@@ -1,0 +1,18 @@
+{
+ "ref": "055006183072",
+ "refDisplay": "0550 06 183072",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 09799",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0011"
+  }
+ ]
+}

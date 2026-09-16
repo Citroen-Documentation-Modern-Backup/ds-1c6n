@@ -1,0 +1,18 @@
+{
+ "ref": "055002140045A",
+ "refDisplay": "0550 02 140045A",
+ "title": "INJECTEURS - FAISCEAU INJECTION",
+ "nature": "",
+ "applicability": " SAUF TOUT ALCOOL OU ESSENCE RON 95 (FLEX FUEL)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0010"
+  }
+ ]
+}

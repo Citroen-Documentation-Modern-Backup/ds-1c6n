@@ -1,0 +1,18 @@
+{
+ "ref": "055006175686A",
+ "refDisplay": "0550 06 175686A",
+ "title": "RECYCLAGE GAZ ECHAPPEMENT",
+ "nature": "",
+ "applicability": "DEPOL CEE 2000 (MOTEUR) JUSQU’A DAM 09338FV OU  JUSQU’A DAM 0970178",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0012"
+  }
+ ]
+}

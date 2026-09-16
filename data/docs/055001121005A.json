@@ -1,0 +1,18 @@
+{
+ "ref": "055001121005A",
+ "refDisplay": "0550 01 121005A",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "BVM",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0005"
+  }
+ ]
+}

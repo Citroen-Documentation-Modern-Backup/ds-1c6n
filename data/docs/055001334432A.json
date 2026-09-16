@@ -1,0 +1,18 @@
+{
+ "ref": "055001334432A",
+ "refDisplay": "0550 01 334432A",
+ "title": "LIGNE SECONDAIRE BVM",
+ "nature": "",
+ "applicability": "BVM BE4R ET BVM BE4 L ET CP 17 X 73 DEPUIS OPR 09380 JUSQU’A OPR 09785 OU BVM BE4R ET BVM BE4 L ET CP 15 X 64 JUSQU’A OPR 09379",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2X",
+   "fctId": "FCT0017"
+  }
+ ]
+}

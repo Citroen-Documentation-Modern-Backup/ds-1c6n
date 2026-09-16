@@ -1,0 +1,18 @@
+{
+ "ref": "055006183019A",
+ "refDisplay": "0550 06 183019A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE EURO 4 DEPUIS DAM 11249CJ",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0011"
+  }
+ ]
+}

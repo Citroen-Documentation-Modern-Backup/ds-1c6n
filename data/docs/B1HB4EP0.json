@@ -1,0 +1,20 @@
+{
+ "ref": "B1HB4EP0",
+ "refDisplay": "B1HB4EP0",
+ "title": "Caractéristiques : système d’injection multipoints SAGEM S2000",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "SYSTEME INJECTION SAGEM",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0010"
+  }
+ ]
+}

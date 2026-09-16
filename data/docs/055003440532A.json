@@ -1,0 +1,18 @@
+{
+ "ref": "055003440532A",
+ "refDisplay": "0550 03 440532A",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE JUSQU’A OPR 10709",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ2",
+   "fctId": "FCT0339"
+  }
+ ]
+}

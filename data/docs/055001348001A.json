@@ -1,0 +1,18 @@
+{
+ "ref": "055001348001A",
+ "refDisplay": "0550 01 348001A",
+ "title": "FIXATION MOTOPROPULSEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 09674",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F7J",
+   "fctId": "FCT0049"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "055001241051G",
+ "refDisplay": "0550 01 241051G",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "1 VENTILATEUR 2 VITESSES 140W AERO DEPUIS OPR 10249",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ2",
+   "fctId": "FCT0009"
+  }
+ ]
+}

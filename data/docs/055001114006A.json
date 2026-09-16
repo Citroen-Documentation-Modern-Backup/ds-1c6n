@@ -1,0 +1,18 @@
+{
+ "ref": "055001114006A",
+ "refDisplay": "0550 01 114006A",
+ "title": "CARTER CYLINDRES",
+ "nature": "",
+ "applicability": " DEPUIS DAM 11249CJ OU  DEPUIS DAM 10556FV",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0004"
+  }
+ ]
+}

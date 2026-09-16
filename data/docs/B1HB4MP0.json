@@ -1,0 +1,20 @@
+{
+ "ref": "B1HB4MP0",
+ "refDisplay": "B1HB4MP0",
+ "title": "Caractéristiques : système d’injection monopoint BOSCH type MP 7.2",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "SYSTEME INJECTION BOSCH",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F2N",
+   "fctId": "FCT0010"
+  }
+ ]
+}

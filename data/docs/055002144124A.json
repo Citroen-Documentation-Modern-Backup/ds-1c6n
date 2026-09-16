@@ -1,0 +1,18 @@
+{
+ "ref": "055002144124A",
+ "refDisplay": "0550 02 144124A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1C6N",
+   "variantKey": "B0D=B0DAF&B0F=B0F6U",
+   "fctId": "FCT0010"
+  }
+ ]
+}
