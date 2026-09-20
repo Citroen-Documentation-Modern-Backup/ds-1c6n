@@ -1,18 +1,1 @@
-{
- "ref": "055006173005A",
- "refDisplay": "0550 06 173005A",
- "title": "CANALISATION FIX FILTRE CARBURANT",
- "nature": "",
- "applicability": " DEPUIS DAM 1033278 SAUF TOUT ALCOOL OU ESSENCE RON 95 (FLEX FUEL)",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6S",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"055006173005A","refDisplay":"0550 06 173005A","title":"CANALISATION FIX FILTRE CARBURANT","nature":"","applicability":" DEPUIS DAM 1033278 SAUF TOUT ALCOOL OU ESSENCE RON 95 (FLEX FUEL)","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6S","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1C6N)(B0F6S)/($10,1033278,,)/[(DCD15)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"000321"},[]],["thesaurus",{"type":"10","code":"014174"},[]],["thesaurus",{"type":"10","code":"010455"},[]],["thesaurus",{"type":"10","code":"006116"},[]],["thesaurus",{"type":"10","code":"016900"},[]],["mpr",{"catal":"0550","grp":"40","grp2":"06","maj":"20111022","numfich":"173005A"},[["appl",{},["{(?1C6N)(B0F6S)/($10,1033278,,)/[(DCD15)]}"]],["sti",{"ident":"4001"},[]],["img",{"numfich":"00024718","path":"/img/pr/18/0002/00024718.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000321","ref":"00001567A5","refpg":"1567 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001567C6","refpg":"1567 C6"},[]]]],["pr",{"codesi":"014174","ref":"E145004","refpg":"E145004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"E145064","refpg":"E145064"},[]]]],["interactivite",{"order":"01"},[["area",{"coords":"251, 84, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010455","ref":"00001573WR","refpg":"1573 WR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"295, 156, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010455","ref":"00001574N6","refpg":"1574 N6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)/($,,1,10986)/}"]]]]]],["pr",{"codesi":"010455","ref":"00001574K1","refpg":"1574 K1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)/($1,10987,,)/}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"190, 410, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006116","ref":"00001573YV","refpg":"1573 YV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"134, 46, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"016900","ref":"00001565T7","refpg":"1565 T7"},[["pmont",{"coef":"03"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4T DIAM 8-8-10-18"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"325, 467, 11","shape":"circle"},[]],["area",{"coords":"271, 301, 11","shape":"circle"},[]],["area",{"coords":"47, 6, 11","shape":"circle"},[]]]]]]]]]]}

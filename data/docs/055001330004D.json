@@ -1,18 +1,1 @@
-{
- "ref": "055001330004D",
- "refDisplay": "0550 01 330004D",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE4 N ET CP 15 X 74 ET DIFFERENTIEL 84 ET CT 22 X 18 ET (RC) CHINE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6S",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"055001330004D","refDisplay":"0550 01 330004D","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE4 N ET CP 15 X 74 ET DIFFERENTIEL 84 ET CT 22 X 18 ET (RC) CHINE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6S","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1C6N)(B0F6S)(DBM36)(DCW61)(DMY08)(DDV21)(B0H50)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"0550","grp":"67","grp2":"01","maj":"20111022","numfich":"330004D"},[["appl",{},["{(?1C6N)(B0F6S)(DBM36)(DCW61)(DMY08)(DDV21)(B0H50)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00087515","path":"/img/pr/15/0008/00087515.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002222YH","refpg":"2222 YH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X74 - CT 22X18"]]]],["reporg",{},[["monte",{},["XM03"]],["monte",{},["(XM03)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"116, 115, 11","shape":"circle"},[]]]]]]]]]]}

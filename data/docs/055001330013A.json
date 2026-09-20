@@ -1,18 +1,1 @@
-{
- "ref": "055001330013A",
- "refDisplay": "0550 01 330013A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE4 L ET CP 19 X 72",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F3N",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"055001330013A","refDisplay":"0550 01 330013A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE4 L ET CP 19 X 72","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F3N","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1C6N)(B0F3N)(DBM35)(DCW65)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["mpr",{"catal":"0550","grp":"67","grp2":"01","maj":"20111022","numfich":"330013A"},[["appl",{},["{(?1C6N)(B0F3N)(DBM35)(DCW65)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00086663","path":"/img/pr/63/0008/00086663.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002222QS","refpg":"2222 QS"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["(DP2J)"]],["monte",{},["DP29"]],["monte",{},["DP2J"]]]]]],["pr",{"codesi":"009391","ref":"00002223ZF","refpg":"2223 ZF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72"]]]],["reporg",{},[["monte",{},["DPB9"]],["monte",{},["(DPB9)"]],["monte",{},["DP29"]],["monte",{},["DP2J"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"114, 81, 11","shape":"circle"},[]]]]]]]]]]}

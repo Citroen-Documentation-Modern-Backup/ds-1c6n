@@ -1,18 +1,1 @@
-{
- "ref": "055001002006A",
- "refDisplay": "0550 01 002006A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": " DEPUIS DAM 11249CJ OU  DEPUIS DAM 10550FV",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6S",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"055001002006A","refDisplay":"0550 01 002006A","title":"ENSEMBLE MOTEUR","nature":"","applicability":" DEPUIS DAM 11249CJ OU  DEPUIS DAM 10550FV","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6S","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1C6N)(B0F6S)/($10,11249CJ,,)//($10,10550FV,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["mpr",{"catal":"0550","grp":"4","grp2":"01","maj":"20111022","numfich":"002006A"},[["appl",{},["{(?1C6N)(B0F6S)/($10,11249CJ,,)//($10,10550FV,,)/}"]],["sti",{"ident":"401"},[]],["img",{"numfich":"00079837","path":"/img/pr/37/0007/00079837.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","ref":"00000135JY","refpg":"0135 JY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["reporg",{},[["monte",{},["NFU"]]]]]],["pr",{"codesi":"013646","ref":"00000139SE","refpg":"0139 SE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(~2)}"]]]],["reporg",{},[["monte",{},["NFU"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"294, 63, 11","shape":"circle"},[]]]]]]]]]]}

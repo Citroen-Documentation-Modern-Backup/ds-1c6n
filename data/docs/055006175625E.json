@@ -1,18 +1,1 @@
-{
- "ref": "055006175625E",
- "refDisplay": "0550 06 175625E",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": " DEPUIS DAM 0882078",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6V",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"055006175625E","refDisplay":"0550 06 175625E","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":" DEPUIS DAM 0882078","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6V","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1C6N)(B0F6V)/($10,0882078,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0550","grp":"54","grp2":"06","maj":"20111022","numfich":"175625E"},[["appl",{},["{(?1C6N)(B0F6V)/($10,0882078,,)/}"]],["sti",{"ident":"5401"},[]],["img",{"numfich":"00056421","path":"/img/pr/21/0005/00056421.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"LE-2010","ref":"00001628HN","refpg":"1628 HN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7W LONG 565"]]]]]],["pr",{"codesi":"015515","ref":"E144004","refpg":"E144004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"294, 247, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004647","ref":"00006995N5","refpg":"6995 N5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"47, 8, 11","shape":"circle"},[]],["area",{"coords":"22, 253, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004647","ref":"00006992H3","refpg":"6992 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11-18"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"103, 8, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "055001223040",
- "refDisplay": "0550 01 223040",
- "title": "REMPLISSAGE HUILE DECANTEUR CANALISATION",
- "nature": "",
- "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F2N",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"055001223040","refDisplay":"0550 01 223040","title":"REMPLISSAGE HUILE DECANTEUR CANALISATION","nature":"","applicability":"DEPOLLUTION TECHNIQUE VEHICULE L3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F2N","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1C6N)(B0F2N)(DUV04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"000677"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["mpr",{"catal":"0550","grp":"33","grp2":"01","maj":"20111022","numfich":"223040"},[["appl",{},["{(?1C6N)(B0F2N)(DUV04)}"]],["sti",{"ident":"3301"},[]],["img",{"numfich":"00024392","path":"/img/pr/92/0002/00024392.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000698","ref":"00001192Q7","refpg":"1192 Q7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"258, 389, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000677","ref":"00001574C4","refpg":"1574 C4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X13"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"20, 322, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004650","ref":"0000698297","refpg":"6982 97"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6-13,5 L 6"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"204, 329, 11","shape":"circle"},[]],["area",{"coords":"46, 8, 11","shape":"circle"},[]],["area",{"coords":"22, 206, 11","shape":"circle"},[]]]]]]]]]]}

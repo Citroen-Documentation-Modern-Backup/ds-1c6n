@@ -1,18 +1,1 @@
-{
- "ref": "055001330010A",
- "refDisplay": "0550 01 330010A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE4 L ET CP 19 X 72 ET CT 22 X 18",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F2X",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"055001330010A","refDisplay":"0550 01 330010A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE4 L ET CP 19 X 72 ET CT 22 X 18","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F2X","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1C6N)(B0F2X)(DBM35)(DCW65)(DDV21)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0008976"},[]],["mpr",{"catal":"0550","grp":"67","grp2":"01","maj":"20111022","numfich":"330010A"},[["appl",{},["{(?1C6N)(B0F2X)(DBM35)(DCW65)(DDV21)}"]],["sti",{"ident":"6701"},[]],["obspage",{"ident":"P0008976"},[]],["img",{"numfich":"00091252","path":"/img/pr/52/0009/00091252.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"0000222232","refpg":"2222 32"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72 - CT 22X18"]]]],["prremp",{"coef":"01","palges":"P","ref":"00002222LA","refpg":"2222 LA"},[]],["reporg",{},[["monte",{},["DL65"]],["monte",{},["DL1G"]],["monte",{},["(DL6E)"]],["monte",{},["DL17"]],["monte",{},["DL64"]],["monte",{},["DL16"]]]]]],["pr",{"codesi":"009391","ref":"00002223P1","refpg":"2223 P1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X72 - CT 22X18"]]]],["reporg",{},[["monte",{},["DL6E"]],["monte",{},["DL65"]],["monte",{},["DL1G"]],["monte",{},["DL17"]],["monte",{},["(DLF5)"]],["monte",{},["DL64"]],["monte",{},["DLA7"]],["monte",{},["DL16"]],["monte",{},["DLF5"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"130, 111, 11","shape":"circle"},[]]]]]]]]]]}

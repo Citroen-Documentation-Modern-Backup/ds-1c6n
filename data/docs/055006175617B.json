@@ -1,18 +1,1 @@
-{
- "ref": "055006175617B",
- "refDisplay": "0550 06 175617B",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "DEPOLLUTION TECHNIQUE VEHICULE EURO 4 DEPUIS OPR 10560",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6S",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"055006175617B","refDisplay":"0550 06 175617B","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"DEPOLLUTION TECHNIQUE VEHICULE EURO 4 DEPUIS OPR 10560","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6S","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1C6N)(B0F6S)(DUV09)/($1,10560,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["thesaurus",{"type":"10","code":"011003"},[]],["thesaurus",{"type":"10","code":"006112"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"0550","grp":"54","grp2":"06","maj":"20111022","numfich":"175617B"},[["appl",{},["{(?1C6N)(B0F6S)(DUV09)/($1,10560,,)/}"]],["sti",{"ident":"5401"},[]],["img",{"numfich":"00068304","path":"/img/pr/04/0006/00068304.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"LE-2009","ref":"00001628HR","refpg":"1628 HR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7W LONG 410"]]]]]],["pr",{"codesi":"015515","ref":"E144004","refpg":"E144004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"203, 452, 11","shape":"circle"},[]],["area",{"coords":"233, 166, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"011003","ref":"00001628VA","refpg":"1628 VA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"330, 465, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006112","ref":"000016289L","refpg":"1628 9L"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"362, 362, 11","shape":"circle"},[]],["area",{"coords":"385, 6, 11","shape":"circle"},[]],["area",{"coords":"271, 39, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004647","ref":"0000453821","refpg":"4538 21"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T 5-5"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"442, 6, 11","shape":"circle"},[]],["area",{"coords":"139, 31, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004647","ref":"00006992A6","refpg":"6992 A6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6-12-30"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"438, 74, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "055001002020A",
- "refDisplay": "0550 01 002020A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6V",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"055001002020A","refDisplay":"0550 01 002020A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6V","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1C6N)(B0F6V)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["mpr",{"catal":"0550","grp":"4","grp2":"01","maj":"20111022","numfich":"002020A"},[["appl",{},["{(?1C6N)(B0F6V)}"]],["sti",{"ident":"401"},[]],["img",{"numfich":"00083705","path":"/img/pr/05/0008/00083705.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"LE-0507","ref":"00000135CK","refpg":"0135 CK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(DDC18)}"]]]],["reporg",{},[["monte",{},["RFM"]]]]]],["pr",{"codesi":"013646","obsnfp":"LE-0507","ref":"00000139NR","refpg":"0139 NR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(DDC20)(~2)}"]]]],["reporg",{},[["monte",{},["RFN"]]]]]],["pr",{"codesi":"013644","obsnfp":"LE-2007","ref":"00000135AJ","refpg":"0135 AJ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(DDC20)/($10,09492FV,,)//($10,0949278,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(DDC23)/($10,09492FV,,)//($10,0949278,,)/}"]]]],["reporg",{},[["monte",{},["RFN"]]]]]],["pr",{"codesi":"013644","ref":"00000135JF","refpg":"0135 JF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(DDC20)/($10,09821UW,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(DDC23)/($10,09821UW,,)/}"]]]],["reporg",{},[["monte",{},["RFN"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"314, 72, 11","shape":"circle"},[]]]]]]]]]]}

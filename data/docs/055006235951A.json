@@ -1,18 +1,1 @@
-{
- "ref": "055006235951A",
- "refDisplay": "0550 06 235951A",
- "title": "VASE EXPANSION CANALISATION EAU",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0FQ2",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"055006235951A","refDisplay":"0550 06 235951A","title":"VASE EXPANSION CANALISATION EAU","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0FQ2","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1C6N)(B0FQ2)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000045"},[]],["thesaurus",{"type":"10","code":"005955"},[]],["thesaurus",{"type":"10","code":"000084"},[]],["thesaurus",{"type":"10","code":"010108"},[]],["thesaurus",{"type":"10","code":"006729"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"22","code":"P0009031"},[]],["mpr",{"catal":"0550","grp":"23","grp2":"06","maj":"20111022","numfich":"235951A"},[["appl",{},["{(?1C6N)(B0FQ2)}"]],["sti",{"ident":"2301"},[]],["obspage",{"ident":"P0009031"},[]],["img",{"numfich":"00070503","path":"/img/pr/03/0007/00070503.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000045","ref":"0000132323","refpg":"1323 23"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"333, 368, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005955","ref":"0000131318","refpg":"1313 18"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"431, 67, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000084","ref":"00001306E4","refpg":"1306 E4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1,4 BAR"]]]],["prremp",{"coef":"01","palges":"P","ref":"00001306J5","refpg":"1306 J5"},[]]]],["interactivite",{"order":"03"},[["area",{"coords":"242, 53, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"010108","ref":"00006455V3","refpg":"6455 V3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6-22"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"327, 21, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006729","ref":"00001306J0","refpg":"1306 J0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"75, 154, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006142","ref":"00006936A9","refpg":"6936 A9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-9-16"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"106, 469, 11","shape":"circle"},[]],["area",{"coords":"44, 6, 11","shape":"circle"},[]]]]]]]]]]}

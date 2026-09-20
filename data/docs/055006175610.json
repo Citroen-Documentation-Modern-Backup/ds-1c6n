@@ -1,18 +1,1 @@
-{
- "ref": "055006175610",
- "refDisplay": "0550 06 175610",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": "DEPOL CEE 95 (MOTEUR)",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F2N",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"055006175610","refDisplay":"0550 06 175610","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":"DEPOL CEE 95 (MOTEUR)","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F2N","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1C6N)(B0F2N)(DDC18)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["thesaurus",{"type":"10","code":"006112"},[]],["mpr",{"catal":"0550","grp":"54","grp2":"06","maj":"20111022","numfich":"175610"},[["appl",{},["{(?1C6N)(B0F2N)(DDC18)}"]],["sti",{"ident":"5401"},[]],["img",{"numfich":"00024732","path":"/img/pr/32/0002/00024732.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"LE-2009","ref":"00001628HR","refpg":"1628 HR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7W LONG 410"]]]]]],["pr",{"codesi":"015515","ref":"E144004","refpg":"E144004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"124, 263, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006112","ref":"000016289L","refpg":"1628 9L"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"42, 6, 11","shape":"circle"},[]],["area",{"coords":"398, 76, 11","shape":"circle"},[]]]]]]]]]]}

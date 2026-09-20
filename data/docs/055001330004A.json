@@ -1,18 +1,1 @@
-{
- "ref": "055001330004A",
- "refDisplay": "0550 01 330004A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM BE4 N ET CP 15 X 74 ET DIFFERENTIEL 77 ET (BR) BRESIL",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6S",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"055001330004A","refDisplay":"0550 01 330004A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM BE4 N ET CP 15 X 74 ET DIFFERENTIEL 77 ET (BR) BRESIL","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6S","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1C6N)(B0F6S)(DBM36)(DCW61)(DMY07)(B0H55)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"0550","grp":"67","grp2":"01","maj":"20111022","numfich":"330004A"},[["appl",{},["{(?1C6N)(B0F6S)(DBM36)(DCW61)(DMY07)(B0H55)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00087515","path":"/img/pr/15/0008/00087515.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"00002222NA","refpg":"2222 NA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)/($10,1033278,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 15X74"]]]],["reporg",{},[["monte",{},["DP1H"]],["monte",{},["DP18"]],["monte",{},["(DP1H)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"116, 115, 11","shape":"circle"},[]]]]]]]]]]}

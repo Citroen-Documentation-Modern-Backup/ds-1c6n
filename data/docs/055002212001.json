@@ -1,18 +1,1 @@
-{
- "ref": "055002212001",
- "refDisplay": "0550 02 212001",
- "title": "BOUGIES - MODULE - BOBINE ALLUMAGE",
- "nature": "",
- "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F2N",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"055002212001","refDisplay":"0550 02 212001","title":"BOUGIES - MODULE - BOBINE ALLUMAGE","nature":"","applicability":"DEPOLLUTION TECHNIQUE VEHICULE L3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F2N","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1C6N)(B0F2N)(DUV04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001844"},[]],["thesaurus",{"type":"10","code":"008987"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"10","code":"001862"},[]],["thesaurus",{"type":"10","code":"016614"},[]],["thesaurus",{"type":"10","code":"016617"},[]],["thesaurus",{"type":"21","code":"L1879854"},[]],["mpr",{"catal":"0550","grp":"46","grp2":"02","maj":"20111201","numfich":"212001"},[["appl",{},["{(?1C6N)(B0F2N)(DUV04)}"]],["sti",{"ident":"4601"},[]],["img",{"numfich":"00024515","path":"/img/pr/15/0002/00024515.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001844","ref":"0000597074","refpg":"5970 74"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]],["obsligne",{"ident":"L1879854"},[]],["reffour",{},[["four",{},["13490M"]]]]]],["prremp",{"coef":"01","palges":"P","ref":"00005970A9","refpg":"5970 A9"},[]]]],["interactivite",{"order":"01"},[["area",{"coords":"359, 267, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008987","ref":"0000596318","refpg":"5963 18"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]],["reffour",{},[["four",{},["60664N"]]]]]]]],["pr",{"codesi":"008987","ref":"0000596319","refpg":"5963 19"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]],["reffour",{},[["four",{},["52232Y"]]]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"292, 395, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005670","ref":"0000596441","refpg":"5964 41"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100 IM45 L13"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"356, 88, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001862","ref":"000059625G","refpg":"5962 5G"},[["pmont",{"coef":"04"},[["appl",{},["{(?1C6N)}"]],["reffour",{},[["four",{},["39328X"]],["refa",{},["RFN52LZ"]]]]]],["pmont",{"coef":"04"},[["appl",{},["{(?1C6N)}"]],["reffour",{},[["four",{},["39328X"]],["refa",{},["RFN58LZ"]]]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960F0","refpg":"5960 F0"},[]]]],["pr",{"codesi":"016614","obsnfp":"NFP","ref":"E160015","refpg":"E160015","typecommercial":"EUROREPAR"},[["pmont",{"coef":"04"},[["appl",{},["{(?1C6N)}"]]]]]],["pr",{"codesi":"016617","ref":"E160019","refpg":"E160019","typecommercial":"EUROREPAR"},[["pmont",{"coef":"04"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"210, 501, 11","shape":"circle"},[]]]]]]]]]]}

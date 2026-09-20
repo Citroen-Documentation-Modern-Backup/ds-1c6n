@@ -1,18 +1,1 @@
-{
- "ref": "055006175625A",
- "refDisplay": "0550 06 175625A",
- "title": "BOITIER SONDE TEMPERATURE ECHAPP",
- "nature": "",
- "applicability": " DEPUIS DAM 08820FV",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F6V",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"055006175625A","refDisplay":"0550 06 175625A","title":"BOITIER SONDE TEMPERATURE ECHAPP","nature":"","applicability":" DEPUIS DAM 08820FV","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F6V","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1C6N)(B0F6V)/($10,08820FV,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000627"},[]],["thesaurus",{"type":"10","code":"015515"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"006112"},[]],["mpr",{"catal":"0550","grp":"54","grp2":"06","maj":"20111022","numfich":"175625A"},[["appl",{},["{(?1C6N)(B0F6V)/($10,08820FV,,)/}"]],["sti",{"ident":"5401"},[]],["img",{"numfich":"00024737","path":"/img/pr/37/0002/00024737.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000627","obsnfp":"LE-2010","ref":"00001628HN","refpg":"1628 HN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7W LONG 565"]]]]]],["pr",{"codesi":"015515","ref":"E144004","refpg":"E144004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"294, 247, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000627","ref":"00001628HV","refpg":"1628 HV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7W LONG 1500"]]]]]],["pr",{"codesi":"015515","ref":"E144004","refpg":"E144004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)(%L1)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"411, 203, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004647","ref":"00006995Q2","refpg":"6995 Q2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"395, 417, 11","shape":"circle"},[]],["area",{"coords":"49, 6, 11","shape":"circle"},[]],["area",{"coords":"248, 375, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006112","ref":"000016289L","refpg":"1628 9L"},[["pmont",{"coef":"02"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"12, 309, 11","shape":"circle"},[]],["area",{"coords":"132, 480, 11","shape":"circle"},[]],["area",{"coords":"105, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004647","ref":"00006995N5","refpg":"6995 N5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"158, 6, 11","shape":"circle"},[]],["area",{"coords":"275, 481, 11","shape":"circle"},[]],["area",{"coords":"22, 253, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004647","ref":"00006992H3","refpg":"6992 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11-18"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"215, 6, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "055001121801",
- "refDisplay": "0550 01 121801",
- "title": "BIELLES - CHEMISES - PISTONS - SEGMENTS",
- "nature": "",
- "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L3",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1C6N",
-   "variantKey": "B0D=B0DAF&B0F=B0F2N",
-   "fctId": "FCT0005"
-  }
- ]
-}
+{"ref":"055001121801","refDisplay":"0550 01 121801","title":"BIELLES - CHEMISES - PISTONS - SEGMENTS","nature":"","applicability":"DEPOLLUTION TECHNIQUE VEHICULE L3","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1C6N","variantKey":"B0D=B0DAF&B0F=B0F2N","fctId":"FCT0005"}],"kind":"pr","appl":"{(?1C6N)(B0F2N)(DUV04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000377"},[]],["thesaurus",{"type":"10","code":"000373"},[]],["thesaurus",{"type":"10","code":"000378"},[]],["thesaurus",{"type":"10","code":"000090"},[]],["thesaurus",{"type":"10","code":"000381"},[]],["mpr",{"catal":"0550","grp":"9","grp2":"01","maj":"20111022","numfich":"121801"},[["appl",{},["{(?1C6N)(B0F2N)(DUV04)}"]],["sti",{"ident":"901"},[]],["img",{"numfich":"00024364","path":"/img/pr/64/0002/00024364.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000377","ref":"00000628J0","refpg":"0628 J0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CN"]]]]]],["pr",{"codesi":"000377","obsnfp":"NFP","ref":"00000628J1","refpg":"0628 J1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REPAR + 0,40"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"367, 191, 11","shape":"circle"},[]],["area",{"coords":"365, 53, 11","shape":"circle"},[]],["area",{"coords":"400, 115, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000373","ref":"00000640F6","refpg":"0640 F6"},[["pmont",{"coef":"04"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CN"]]]]]],["pr",{"codesi":"000373","ref":"00000640H4","refpg":"0640 H4"},[["pmont",{"coef":"04"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REPAR + 0,40"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"365, 53, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000378","ref":"0000060356","refpg":"0603 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"295, 377, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000090","ref":"0000060721","refpg":"0607 21"},[["pmont",{"coef":"08"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["9X100-55,5"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"4, 69, 11","shape":"circle"},[]],["area",{"coords":"131, 46, 11","shape":"circle"},[]],["area",{"coords":"24, 508, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000381","ref":"0000060643","refpg":"0606 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CN DIAM 44,98"]]]]]],["pr",{"codesi":"000381","ref":"0000060644","refpg":"0606 44"},[["pmont",{"coef":"01"},[["appl",{},["{(?1C6N)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REPAR DIAM 44,7"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"141, 296, 11","shape":"circle"},[]]]]]]]]]]}
